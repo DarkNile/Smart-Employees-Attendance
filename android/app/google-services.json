@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844340356978",
+    "firebase_url": "https://dtc-smart-attendance.firebaseio.com",
+    "project_id": "dtc-smart-attendance",
+    "storage_bucket": "dtc-smart-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844340356978:android:dd8c27c423a17b97fa9feb",
+        "android_client_info": {
+          "package_name": "com.example.dtc_attendance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844340356978-vr129cveri2rcjj737e1jc9c0ot46lv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUmi-t_ryCiAfMm-dqOMTCiECqjwH4M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844340356978-vr129cveri2rcjj737e1jc9c0ot46lv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
